@@ -56,7 +56,7 @@
             </itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:04:31</itunes:duration>
-            <itunes:image href="https://cdn.img.anlatilaninotesi.com.tr/img/07e8/08/0d/1086813216_0:160:3072:1888_1920x0_80_0_0_db3fbd4d81a9d6b62c6b5fddbb23f9bb.jpg"/>
+            <itunes:image href="https://www.1907.org/uploads/files/500-500/ferdi-kadioglu-807215.png"/>
             <itunes:season>1</itunes:season>
             <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
@@ -74,6 +74,23 @@
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:04:31</itunes:duration>
             <itunes:image href="https://cdn.img.anlatilaninotesi.com.tr/img/07e8/08/0d/1086813216_0:160:3072:1888_1920x0_80_0_0_db3fbd4d81a9d6b62c6b5fddbb23f9bb.jpg"/>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[(İnşallah)Şampiyonluk Nöbeti Fenerbahçe]]></title>
+            <description><![CDATA[mourinhoVekili bu açıklama mourinho için]]></description>
+            <link>https://podcasters.spotify.com/pod/show/gundemdemcomtr/episodes/16-22-Ocak-Gndemdeki-Haberler---Gndemden-e1tqnrc</link>
+            <guid isPermaLink="false">b6bc96a7-cf08-4a60-b80a-32b1ebb4526e</guid>
+            <dc:creator><![CDATA[Gündemden]]></dc:creator>
+            <pubDate>Sun, 22 Jan 2030 00:00:00 GMT</pubDate>
+            <enclosure url="test4.mp3" length="6452983" type="audio/mpeg"/>
+            <itunes:summary>16-22 Ocak 2023 tarihi arasında gelişen gündem ve son dakika haberlerinin özeti. | gundemden.com.tr - Instagram ve Twitter: gundemdencomtr
+            </itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>00:04:31</itunes:duration>
+            <itunes:image href="https://mediacdn.yirmidort.tv/Documents/yirmidorthaber/images/2024/07/23/jose-mourinho-fenerbahce--404_2-41.jpg"/>
             <itunes:season>1</itunes:season>
             <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
