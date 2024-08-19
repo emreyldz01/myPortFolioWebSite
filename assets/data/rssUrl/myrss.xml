@@ -45,7 +45,7 @@
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
-            <title><![CDATA[(İnşallah) Bugün Günlerden Fenerbahçe 4444444444]]></title>
+            <title><![CDATA[(İnşallah) Bugün Günlerden Fenerbahçe yeni  666666]]></title>
             <description><![CDATA[mourinhoVekili Emre YESKİ BİR ]]></description>
             <link>https://podcasters.spotify.com/pod/show/gundemdemcomtr/episodes/16-22-Ocak-Gndemdeki-Haberler---Gndemden-e1tqnrc</link>
             <guid isPermaLink="false">b6bc96a7-cf08-4a60-b80a-32b1ebb4526e</guid>
@@ -62,7 +62,7 @@
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
-            <title><![CDATA[(İnşallah) Bugün Günlerden Fenerbahçe 555555555555]]></title>
+            <title><![CDATA[(İnşallah) Bugün Günlerden Fenerbahçe yeni 77777]]></title>
             <description><![CDATA[mourinhoVekili Emre YENİ BİR TEST]]></description>
             <link>https://podcasters.spotify.com/pod/show/gundemdemcomtr/episodes/16-22-Ocak-Gndemdeki-Haberler---Gndemden-e1tqnrc</link>
             <guid isPermaLink="false">b6bc96a7-cf08-4a60-b80a-32b1ebb4526e</guid>
@@ -79,7 +79,7 @@
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
-            <title><![CDATA[(İnşallah) Bugün Günlerden Fenerbahçe 66666666666666]]></title>
+            <title><![CDATA[(İnşallah) Bugün Günlerden Fenerbahçe yeni 888888]]></title>
             <description><![CDATA[mourinhoVekili Emre YENİ BİR TEST]]></description>
             <link>https://podcasters.spotify.com/pod/show/gundemdemcomtr/episodes/16-22-Ocak-Gndemdeki-Haberler---Gndemden-e1tqnrc</link>
             <guid isPermaLink="false">b6bc96a7-cf08-4a60-b80a-32b1ebb4526e</guid>
@@ -95,6 +95,22 @@
             <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
-        
+        <item>
+            <title><![CDATA[(İnşallah) Bugün Günlerden Fenerbahçe yeni 99999]]></title>
+            <description><![CDATA[mourinhoVekili Emre YENİ BİR TEST]]></description>
+            <link>https://podcasters.spotify.com/pod/show/gundemdemcomtr/episodes/16-22-Ocak-Gndemdeki-Haberler---Gndemden-e1tqnrc</link>
+            <guid isPermaLink="false">b6bc96a7-cf08-4a60-b80a-32b1ebb4526e</guid>
+            <dc:creator><![CDATA[Gündemden]]></dc:creator>
+            <pubDate>Sun, 22 Jan 2030 00:00:00 GMT</pubDate>
+            <enclosure url="TEST991118.mp3" length="6452983" type="audio/mpeg"/>
+            <itunes:summary>YENI 16-22 Ocak 2023 tarihi arasında gelişen gündem ve son dakika haberlerinin özeti. | gundemden.com.tr - Instagram ve Twitter: gundemdencomtr
+            </itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>00:04:31</itunes:duration>
+            <itunes:image href="https://pbs.twimg.com/media/GOhpn9BWYAAfx6_.jpg"/>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
     </channel>
 </rss>
